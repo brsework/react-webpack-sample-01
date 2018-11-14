@@ -9,7 +9,7 @@
 Có thể download về rồi giải nén.
 Nếu trên máy bạn đã cài đặt sẵn git (v2) thì có thể dùng lệnh clone của git:
 ```
-  git clone https://github.com/namlevu/react-webpack-sample.git
+  git clone https://github.com/brsework/react-webpack-sample-01.git
 ```
 3. Thực hiện tải thư viện trước khi chạy thử
 Sử dụng terminal ( Unix/MacOS ) hoặc cmd ( Windows ) chuyển thư mục đến thư mục source code tải về.
